@@ -12,7 +12,7 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
-＃ 你还要我怎么样
+## 你还要我怎么样
 My name is Dan,Shihao
 `我啥英文也看不懂，太难了`
 这里说明一下，我叫丹诗豪，第一次使用github平台，想学一些计算机技术，偏向WEB前端。
